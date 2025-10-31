@@ -25,7 +25,7 @@ Deep learning architecture for malware classification using multi-channel image 
 
 ## 🗂️ Dataset
 
-**MalImg Dataset**
+**Malimg Dataset**
 - **Total Samples**: 9,339 malware images
 - **Families**: 25 malware families
 - **Image Size**: 32×32 pixels
