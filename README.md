@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Repository**: [github.com/RezwanulHaqueRizu/ACB_Trinet](https://github.com/RezwanulHaqueRizu/ACB_Trinet)
-- **Dataset**: [MalImg Dataset (Kaggle)](https://www.kaggle.com/datasets)
+- **Dataset**: [Malimg Dataset (Kaggle)](https://www.kaggle.com/datasets)
 
 ---
 
